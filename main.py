@@ -1,10 +1,10 @@
 import os
 
 TEXT = (
-    "A traffic jam is a school corridor at bell time: everyone fits, "
-    "but one kid stopping to tie a shoe freezes the whole line.\n"
-    "The map works because both are about flow, not size; it leaves out "
-    "that drivers, unlike kids, can choose another street.\n"
+    "Rain is the sky doing dishes: clouds are the full sink, "
+    "thunder is a dropped pan, and puddles are what splashed over the side.\n"
+    "The map works because both turn stored-up water into a mess below; "
+    "it leaves out that nobody has to dry the sky afterwards.\n"
 )
 
 
